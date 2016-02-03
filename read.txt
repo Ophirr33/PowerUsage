@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: groovy-all-2.3.9.jar core.jar gluegen-rt.jar jogl-all.jar 
+ json4processing.jar libTUIO.jar log4j-1.2.15.jar sqlite-jdbc-3.7.2.ja
+ r unfolding.0.9.6.jar VisualizationIntelliJProjects.jar
+Main-Class: VisualizationMap.HelloUnfoldingWorld
+

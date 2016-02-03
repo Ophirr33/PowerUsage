@@ -1,0 +1,53 @@
+sID,Name,Abbreviation,bID
+0,Barletta Natatorium,BN,0
+1,Behrakis Center,BK,1
+2,Cabot Center,CB,2
+3,Cargill Hall,CG,3
+4,Churchill Hall,CH,4
+5,Columbus Place,CP,5
+6,Cullinane Hall,CN,6
+7,Curry Student Center,CSC,7
+8,Dana Research Center,DA,8
+9,Dockser Hall,DK,9
+10,Dodge Hall,DG,10
+11,Egan Research Center,EC,11
+12,Ell Hall,EL,12
+13,Fenway Center,FC,13
+14,Forsyth Visual.Building,FR,14
+15,Hayden Hall,HA,15
+16,Holmes/Meserve,HO/ME,16
+17,Hurtig Hall,HT,17
+18,International Village,INV,18
+19,Kariotis Hall,KA,19
+20,Knowles Center,KN,20
+21,Lake/Nightingale,LA/NI,21
+22,Levine Hall,LV,22
+23,Marino Recreation Center,MC,23
+24,Marino Vendor - ABP, MV-ABP,23
+25,Marino Vendor - NO, MV-NO,23
+26,Marino Vendor - SPTA, MV-SPTA,23
+27,Marino Vendor - Wollastons, MV-WO,23
+28,Marino Vendor - Wraps, MV-WR,23
+29,Matthews Arena,MA,24
+30,Mugar Visual.Building,MU,25
+31,Power Plant,PP,26
+32,Richards Hall,RI,27
+33,Robinson Hall,RB,28
+34,Ryder Hall,RY,29
+35,Shillman Hall,SH,30
+36,Snell Engineering Center,SN,31
+37,Snell Library,SL,32
+38,Speare Hall,SP,33
+39,Stearns Center,ST,34
+40,Stetson West,SW,35
+41,Stetson East,SE,36
+42,West Village A,WVA,37
+43,West Village B,WVB,38
+44,West Village B Vendor - Wollastons,WVBV-WO,38
+45,West Village C,WVC,39
+46,West Village E,WVE,40
+47,West Village F,WVF,41
+48,West Village G,WVG,42
+49,West Village H,WVH,43
+50,White Hall,WH,44
+51,Willis Hall,WI,45
