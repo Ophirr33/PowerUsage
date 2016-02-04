@@ -1,2 +1,2 @@
 # PowerUsage
-![alt text](screenshot/Screenshot.png "Sample rendering")
+![map view](screenshot/Screenshot.png "Screenshot")
